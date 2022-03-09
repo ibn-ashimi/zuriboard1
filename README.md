@@ -14,7 +14,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-
+```shell
 Contract deployment: Zuri
   Contract address:    0x5fbdb2315678afecb367f032d93f642f64180aa3
   Transaction:         0x6f6690cc579eae428c8fb935dd68310fc1244cbad421c9d7021f838468052b86
@@ -25,3 +25,4 @@ Contract deployment: Zuri
 
   console.log:
     Hello World
+```
